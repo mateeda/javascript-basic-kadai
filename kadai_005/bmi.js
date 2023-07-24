@@ -2,7 +2,7 @@
 let userName;
 
 // 値の代入
-userName='体重';
+userName='68kg';
 
 // コンソールへの出力
 console.log(userName);
@@ -11,7 +11,7 @@ console.log(userName);
 let userNumber;
 
 // 値の代入
-userNumber='身長';
+userNumber='1.7m';
 
 // コンソールへの出力
 console.log(userNumber);
